@@ -18,7 +18,7 @@ useradd -u 1000 -g 1000 --comment "MkDocs User" --create-home --shell /sbin/nolo
 Download and unzip files from repository.
 ```
 cd /home/mkdocs
-wget https://github.com/naabOmatic/Docker-Mkdocs.git
+wget https://github.com/naabOmatic/Docker-Mkdocs/archive/master.zip
 unzip master.zip
 cd Docker-Mkdocs-master
 ```
